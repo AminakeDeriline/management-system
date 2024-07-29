@@ -41,4 +41,5 @@ int main() {
     encryptFile(inputFilePath, outputFilePath);
 
     return 0;
+    //the main code has all the files for encryption and decryption.
 }
